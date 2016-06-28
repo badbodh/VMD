@@ -1,5 +1,6 @@
 #Maintainer: steabert <steabert@member.fsf.org>
 #Contributor: Ricardo Honorato Z.
+#Modified for personal use by: badbodh
 pkgname=vmd
 pkgver=1.9.2
 pkgrel=2
