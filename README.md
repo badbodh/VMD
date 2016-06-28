@@ -9,6 +9,7 @@ https://www-s.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD
 VMD homepage https://www-s.ks.uiuc.edu/Research/vmd/
 
 *rtfm*
-https://wiki.archlinux.org/index.php/Creating_packages
-https://wiki.archlinux.org/index.php/Makepkg
-https://wiki.archlinux.org/index.php/PKGBUILD
+
+* https://wiki.archlinux.org/index.php/Creating_packages
+* https://wiki.archlinux.org/index.php/Makepkg
+* https://wiki.archlinux.org/index.php/PKGBUILD
